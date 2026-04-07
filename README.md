@@ -29,7 +29,7 @@ A classic Tic Tac Toe game built with vanilla JavaScript where you play against 
 
 ## Getting Started
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe
+git clone https://github.com/bekamanjgaladze3-dev/Tic-Toc-Toe-Game-against-AI.git
 cd tic-tac-toe
 open index.html
 ```
