@@ -60,10 +60,10 @@ function updateUI(e){
     board[cellId] = "X";
     localStorage.setItem("board", JSON.stringify(board))
 
-    // Check if player already won BEFORE AI moves
+  
     if (winner()) return;
 
-    // Now allow AI
+    
     timeOutId = setTimeout(aiMove, 200);
     aiwinsGame();
 }
