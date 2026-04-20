@@ -30,8 +30,6 @@ https://bekamanjgaladze3-dev.github.io/Tic-Toc-Toe-Game-against-AI/
 ## Getting Started
 ```bash
 git clone https://github.com/bekamanjgaladze3-dev/Tic-Toc-Toe-Game-against-AI.git
-cd tic-tac-toe
-open index.html
 ```
 
 ## What I Learned
